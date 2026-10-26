@@ -17,7 +17,7 @@ title: Azkar Coach — Privacy Policy & Terms
 
 - Azkar Coach does **not collect, upload, sell or share** any personal data.
 - Everything you enter stays **on your phone only**.
-- There is **no account, no sign-in, no ads, no analytics and no tracking**.
+- There is **no account, no sign-in, no analytics and no tracking**.
 - The app works fully offline.
 
 ### 1. Information stored on your device
@@ -40,7 +40,7 @@ You are in control of this data:
 
 ### 2. Information we collect
 
-**None.** The app has no servers and no third-party analytics, advertising or crash-reporting services. No data is collected automatically or manually, and none is shared with third parties.
+**None.** The app has no servers and no third-party analytics or crash-reporting services. No data is collected automatically or manually, and none is shared with third parties.
 
 ### 3. Permissions
 
@@ -105,7 +105,7 @@ Please do not copy, resell or redistribute the app or its design as your own. Sh
 
 ### 7. Premium features
 
-Premium learning tracks are currently free. If paid features are added later, prices and terms will be shown clearly in the app and handled through Google Play before you pay anything.
+Premium learning tracks are free.
 
 ### 8. Disclaimer
 
